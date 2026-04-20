@@ -38,21 +38,7 @@ Chapter kết thúc
 4. Chọn chế độ PDF
 1 → Gộp tất cả chapter thành 1 PDF
 2 → Mỗi chapter 1 PDF riêng
-📁 Cấu trúc thư mục
 
-Sau khi chạy, dữ liệu sẽ được lưu trong:
-
-manga_download/
-│
-├── chapter_01/
-│   ├── ch01_img_001.jpg
-│   ├── ch01_img_002.jpg
-│   └── ...
-│
-├── chapter_02/
-│   └── ...
-│
-└── manga_ch_01_to_10.pdf
 🍪 Vượt Cloudflare
 Cách 1: Dùng cookie thủ công
 Mở web bằng Chrome
